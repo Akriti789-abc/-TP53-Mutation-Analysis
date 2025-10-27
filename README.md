@@ -50,4 +50,6 @@ Source: [IARC TP53 Database](https://tp53.isb-cgc.org/)
 
 ## 🧾 Author
 Akriti Saini 
-B.Tech Biotechnology 
+|B.Tech Biotechnology|
+|Institution: Banasthali Vidyapeeth| 
+
